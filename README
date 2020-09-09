@@ -2,5 +2,12 @@ This is a git repo.
 
 THis is a new line
 
+<<<<<<< HEAD
 THis is from the master, I am doing a fix. 
+=======
+Adding a new line. 
+
+THis is another line for the new feature. 
+
+>>>>>>> feature-branch-name
 
